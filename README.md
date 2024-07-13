@@ -2,15 +2,6 @@
 
 This project aims to predict the stock prices of Reliance Industries Limited using an LSTM (Long Short-Term Memory) model. The dataset spans from January 1, 2010, to June 15, 2024. The model is trained on the historical closing prices and predicts future prices.
 
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Results](#results)
-- [Future Work](#future-work)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Installation
 
 1. Clone the repository:

@@ -37,9 +37,9 @@ This project aims to predict the stock prices of Reliance Industries Limited usi
 ## Results
 
 The model's performance is evaluated using Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), and Mean Absolute Percentage Error (MAPE). Here are the results:
-- **MAE:** 34.36
-- **RMSE:** 44.48
-- **MAPE:** 1.45%
+-> **MAE:** 34.36
+-> **RMSE:** 44.48
+-> **MAPE:** 1.45%
 
 The predicted stock prices for the future are plotted alongside the historical prices for comparison.
 
